@@ -1,6 +1,6 @@
 package ir.mjahanbazi.audioplayerstopinbackground;
 
-public class MyActivityListenerDefault implements MyActivityListener {
+public class MyActivityListenerDefault implements ActivityListener {
     @Override
     public void onCreate() {
 

@@ -6,7 +6,7 @@ import android.widget.CompoundButton;
 
 
 public class MainActivity extends MyActivity {
-    public MyAudioPlayer audioPlayer;
+    public AudioPlayer audioPlayer;
     private MyActivityListenerDefault listener = new MyActivityListenerDefault() {
         @Override
         public void onPause() {
